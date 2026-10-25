@@ -1,0 +1,25 @@
+{
+  "intro": {
+    "heading": "KRISHNENDU",
+    "subheading": "ABOUT!",
+    "description": "I am a full-stack developer exploring AI engineering, building practical products, and contributing to open source. As a Core Member at Upblit and active open-source contributor at Elixpo, I focus on building scalable web architectures, developer utilities, and AI-native applications.",
+    "portraitImage": "/assets/krishnendu/krishnendu-avatar.jpg"
+  },
+  "fancySection": {
+    "banner": "PROFILE",
+    "subtitle": "Experience & Focus Areas",
+    "content": "My engineering approach is grounded in a simple philosophy: Build things that work. Understand the systems beneath the abstractions. Keep learning in public. From real-time messaging architectures in Whisper to AI-driven codebase intelligence in StackAtlas and developer utilities in DevMate, I focus on turning complex technical challenges into dependable software.",
+    "highlights": [
+      "Full-Stack Web Architecture (React, Next.js, Node.js, Express, MongoDB)",
+      "Core Member @ Upblit",
+      "Open Source Contributor @ Elixpo",
+      "AI Engineering & LLM APIs"
+    ],
+    "contactNote": "When I’m not coding, you’ll probably find me playing chess, gaming, exploring music, or challenging myself with problems that make me think differently. I genuinely enjoy problem-solving, whether it’s cracking a tricky algorithm, finding an unconventional solution, or thinking a few moves ahead on the chessboard. Always open to collaborating on ambitious open-source projects and engineering opportunities.",
+    "shoutouts": ["Upblit Core Team", "Elixpo Ecosystem"],
+    "shoutoutText": "for driving open-source collaboration, developer craft, and community growth."
+  },
+  "images": {
+    "gallery": []
+  }
+}

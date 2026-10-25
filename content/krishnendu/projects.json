@@ -1,0 +1,77 @@
+{
+  "heading": "PROJECTS",
+  "layout": "bento",
+  "heroImage": "/assets/krishnendu/projects/blackhole-stamp.webp",
+  "description": "Selected software systems, real-time architectures, AI developer tooling, and open-source contributions across Upblit and the Elixpo ecosystem.",
+  "projects": [
+    {
+      "name": "Upblit",
+      "displayName": "Upblit Core Platform",
+      "description": "Core platform engineering, open-source architecture, and collaborative developer tools as a Core Member of the Upblit project.",
+      "stars": null,
+      "url": "https://github.com/dev-krish/Upblit",
+      "owner": "dev-krish",
+      "ownerLogo": "https://github.com/dev-krish.png",
+      "topics": ["upblit", "core-member", "open-source", "developer-tooling", "architecture"],
+      "language": "TypeScript",
+      "bentoSpan": 2
+    },
+    {
+      "name": "elixpo-ecosystem",
+      "displayName": "Elixpo Ecosystem & Chat",
+      "description": "Active open-source contributions across the Elixpo ecosystem, including chat services, authentication platforms, and community developer tooling.",
+      "stars": null,
+      "url": "https://github.com/elixpo",
+      "owner": "elixpo",
+      "ownerLogo": "https://github.com/elixpo.png",
+      "topics": ["elixpo", "open-source", "chat", "multimodal", "contributor"],
+      "language": "TypeScript",
+      "bentoSpan": 2
+    },
+    {
+      "name": "Whisper",
+      "displayName": "Whisper — Real-Time Chat",
+      "description": "A modern real-time chat application built with the MERN stack, featuring secure JWT authentication, instant WebSocket messaging, online status indicators, and responsive UI.",
+      "stars": null,
+      "url": "https://github.com/dev-krish/Whisper",
+      "owner": "dev-krish",
+      "ownerLogo": "https://github.com/dev-krish.png",
+      "topics": ["chat", "mern", "socket-io", "realtime", "react"],
+      "language": "JavaScript"
+    },
+    {
+      "name": "Stack-Atlas",
+      "displayName": "StackAtlas (In Progress)",
+      "description": "AI-powered codebase intelligence tool that analyzes GitHub repositories and ZIP files to generate architectural system maps, structure insights, and tech stack breakdowns.",
+      "stars": 1,
+      "url": "https://github.com/dev-krish/Stack-Atlas",
+      "owner": "dev-krish",
+      "ownerLogo": "https://github.com/dev-krish.png",
+      "topics": ["ai", "codebase-intelligence", "ast", "in-progress", "typescript"],
+      "language": "TypeScript"
+    },
+    {
+      "name": "DevMate",
+      "displayName": "DevMate — Developer Bot",
+      "description": "Developer-focused Telegram bot built with Python and Docker providing cryptographic hashing (SHA-256), secure password generation, UUID generation, and developer automation.",
+      "stars": 1,
+      "url": "https://github.com/dev-krish/DevMate",
+      "owner": "dev-krish",
+      "ownerLogo": "https://github.com/dev-krish.png",
+      "topics": ["telegram-bot", "python", "docker", "developer-tools", "automation"],
+      "language": "Python"
+    },
+    {
+      "name": "Fleet-Flow",
+      "displayName": "FleetFlow — Logistics Platform",
+      "description": "Production-grade Transport & Logistics Management System built with the MERN Stack featuring realtime vehicle tracking, shipment workflows, RBAC, analytics dashboards, and Socket.IO.",
+      "stars": 1,
+      "url": "https://github.com/dev-krish/Fleet-Flow",
+      "owner": "dev-krish",
+      "ownerLogo": "https://github.com/dev-krish.png",
+      "topics": ["logistics", "mern", "socket-io", "analytics", "tracking"],
+      "language": "JavaScript",
+      "bentoSpan": 2
+    }
+  ]
+}

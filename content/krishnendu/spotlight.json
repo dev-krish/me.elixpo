@@ -1,0 +1,16 @@
+{
+  "heading": "SPOTLIGHT",
+  "subheading": "RECOGNITION",
+  "items": [
+    {
+      "title": "Upblit Core Team",
+      "description": "Core team member driving product engineering and platform features.",
+      "image": "/assets/krishnendu/spotlight/elixpo-hackathon.webp"
+    },
+    {
+      "title": "Elixpo Open Source Contributor",
+      "description": "Active contributor across Elixpo services and collaborative community repositories.",
+      "image": "/assets/krishnendu/spotlight/elixpo-home.png"
+    }
+  ]
+}
