@@ -3,10 +3,10 @@
     "focusTags": ["Full-Stack", "AI Engineering", "Open Source"],
     "name": "KRISHNENDU",
     "headline": "Full Stack Developer , Opensource Contributer , Ai Engineer .",
-    "subhead": "Core Member @ Upblit · Contributor @ Elixpo · AI & Systems",
+    "subhead": "AI Intern @ FlyRank AI · Core Member @ Upblit · Contributor @ Elixpo",
     "intro": "A full-stack developer exploring AI engineering, building practical products, and contributing to open source.",
     "credentials": [
-      { "label": "Core Member", "org": "Upblit" },
+      { "label": "AI Intern", "org": "FlyRank AI" },
       { "label": "Contributor", "org": "Elixpo" }
     ],
     "ctas": [
@@ -22,9 +22,9 @@
     "description": "I build modern, scalable, and AI-powered web applications with a focus on performance, usability, and clean architecture.",
     "highlights": [
       "Full-Stack Web Architecture (React, Next.js, Node.js, Express)",
-      "Core Member @ Upblit",
       "AI Engineering & LLM APIs",
-      "Open Source Contributor @ Elixpo"
+      "AI Intern @ FlyRank AI",
+      "Open Source Contributor @ Elixpo & Upblit"
     ],
     "images": {
       "portrait": "/assets/krishnendu/krishnendu-avatar.jpg",
@@ -33,7 +33,7 @@
   },
   "websiteSection": {
     "designedBy": "Built as part of the Elixpo Portfolios platform — connecting verified contributions, open projects, and personal engineering across the community.",
-    "futurePlans": "Deepening work in AI-powered developer tooling, distributed real-time systems, and scalable web architectures. Continuing active open-source contributions across Upblit and Elixpo.",
+    "futurePlans": "Deepening work in AI engineering, developer tooling, and scalable full-stack web architectures. Continuing active open-source contributions across community ecosystems.",
     "codeStory": "My engineering philosophy is simple: Build things that work. Understand the systems beneath the abstractions. Keep learning in public. From building real-time communication systems in Whisper to architecting codebase intelligence in StackAtlas and developer utilities in DevMate, I focus on turning complex challenges into clear, reliable systems.",
     "images": {
       "owl": "/assets/krishnendu/websiteSection/hz-owl1.webp",

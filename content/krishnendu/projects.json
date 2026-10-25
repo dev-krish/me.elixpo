@@ -2,32 +2,8 @@
   "heading": "PROJECTS",
   "layout": "bento",
   "heroImage": "/assets/krishnendu/projects/blackhole-stamp.webp",
-  "description": "Selected software systems, real-time architectures, AI developer tooling, and open-source contributions across Upblit and the Elixpo ecosystem.",
+  "description": "Selected software systems, real-time architectures, AI developer tooling, and open-source contributions.",
   "projects": [
-    {
-      "name": "Upblit",
-      "displayName": "Upblit Core Platform",
-      "description": "Core platform engineering, open-source architecture, and collaborative developer tools as a Core Member of the Upblit project.",
-      "stars": null,
-      "url": "https://github.com/dev-krish/Upblit",
-      "owner": "dev-krish",
-      "ownerLogo": "https://github.com/dev-krish.png",
-      "topics": ["upblit", "core-member", "open-source", "developer-tooling", "architecture"],
-      "language": "TypeScript",
-      "bentoSpan": 2
-    },
-    {
-      "name": "elixpo-ecosystem",
-      "displayName": "Elixpo Ecosystem & Chat",
-      "description": "Active open-source contributions across the Elixpo ecosystem, including chat services, authentication platforms, and community developer tooling.",
-      "stars": null,
-      "url": "https://github.com/elixpo",
-      "owner": "elixpo",
-      "ownerLogo": "https://github.com/elixpo.png",
-      "topics": ["elixpo", "open-source", "chat", "multimodal", "contributor"],
-      "language": "TypeScript",
-      "bentoSpan": 2
-    },
     {
       "name": "Whisper",
       "displayName": "Whisper — Real-Time Chat",
@@ -37,7 +13,8 @@
       "owner": "dev-krish",
       "ownerLogo": "https://github.com/dev-krish.png",
       "topics": ["chat", "mern", "socket-io", "realtime", "react"],
-      "language": "JavaScript"
+      "language": "JavaScript",
+      "bentoSpan": 2
     },
     {
       "name": "Stack-Atlas",
@@ -62,16 +39,26 @@
       "language": "Python"
     },
     {
-      "name": "Fleet-Flow",
-      "displayName": "FleetFlow — Logistics Platform",
-      "description": "Production-grade Transport & Logistics Management System built with the MERN Stack featuring realtime vehicle tracking, shipment workflows, RBAC, analytics dashboards, and Socket.IO.",
-      "stars": 1,
-      "url": "https://github.com/dev-krish/Fleet-Flow",
+      "name": "Upblit",
+      "displayName": "Upblit Platform",
+      "description": "Collaborative platform engineering, open-source architecture, and developer tooling as a core team member.",
+      "stars": null,
+      "url": "https://github.com/dev-krish/Upblit",
       "owner": "dev-krish",
       "ownerLogo": "https://github.com/dev-krish.png",
-      "topics": ["logistics", "mern", "socket-io", "analytics", "tracking"],
-      "language": "JavaScript",
-      "bentoSpan": 2
+      "topics": ["upblit", "open-source", "developer-tooling", "architecture"],
+      "language": "TypeScript"
+    },
+    {
+      "name": "elixpo-ecosystem",
+      "displayName": "Elixpo Ecosystem & Chat",
+      "description": "Active open-source contributions across the Elixpo ecosystem, including chat services, authentication platforms, and community developer tooling.",
+      "stars": null,
+      "url": "https://github.com/elixpo",
+      "owner": "elixpo",
+      "ownerLogo": "https://github.com/elixpo.png",
+      "topics": ["elixpo", "open-source", "chat", "multimodal", "contributor"],
+      "language": "TypeScript"
     }
   ]
 }
